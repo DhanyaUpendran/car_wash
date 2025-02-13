@@ -46,7 +46,9 @@ const PaymentDetails = () => {
   };
 
   return (
-    <div className="p-6 mt-6">
+    <div className="overflow-x-auto mt-5 p-6">
+    <h2 className="text-2xl font-semibold mb-4 mt-4 text-center">Payment List</h2>
+
       <button
         className="bg-blue-500 text-white px-4 py-2 rounded mb-4"
         onClick={exportToExcel}
