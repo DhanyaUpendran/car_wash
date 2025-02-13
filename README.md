@@ -68,9 +68,13 @@ MONGO_DB_URI=your uri
 JWT_SECRET=your secrete
 ADMIN_EMAIL = yourmail
 ADMIN_PASSWORD= your password
-📸 Screenshots
-car wash site photos:[car_wash/images/Screenshot (1).png]
 
+
+📸 Screenshots
+-----------------------------------
+car wash site photos: check this out
+car_wash/images/screenshots
+-----------------------------------------
 
 📞 Contact & Support
 For queries, feel free to reach out!
